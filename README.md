@@ -60,7 +60,7 @@ Open to commissions and collaborations: adnanshah9911@gmail.com
 
 #### Intermediate, [DJ Science College](https://en.wikipedia.org/wiki/D._J._Sindh_Government_Science_College)
 
-##### (2011 - 2013) | Karachi
+##### (2012 - 2013) | Karachi
 
 #### Matriculation, [Shan Grammar School](https://adnanshah.github.io/M-Adnan/)
 
