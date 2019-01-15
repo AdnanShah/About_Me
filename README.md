@@ -62,7 +62,7 @@ Open to commissions and collaborations: adnanshah9911@gmail.com
 
 ##### (2011 - 2013) | Karachi
 
-#### Matriculation, [Shan Grammar School]
+#### Matriculation, [Shan Grammar School](https://adnanshah.github.io/M-Adnan/)
 
 ##### (2011) | Karachi
 
@@ -71,7 +71,7 @@ Open to commissions and collaborations: adnanshah9911@gmail.com
 ### Languages & Frameworks
 
 - Python
-- Javascript
+- Javascript Es6
 - React JS
 - Angular 2+
 - Jquery
