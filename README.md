@@ -1,4 +1,4 @@
-<p align="center"><img src="./public/assets/shah.jpg"></p>
+<p align="center"><img src="./src/Adnan.jpg"></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-adnan-shah/" >
@@ -21,11 +21,11 @@ Open to commissions and collaborations: adnanshah9911@gmail.com
 
 ## Latest Projects
 
-- [**Chrome Extension**](https://chrome.google.com/webstore/detail/clique-payments/nlgjlidmhmjpkbjdcgaclehcfinmkhnh), A chrome extension for QuickBooksOnline to pay bill, invoice etc using multiple gateways.
+- [**Clique**](https://chrome.google.com/webstore/detail/clique-payments/nlgjlidmhmjpkbjdcgaclehcfinmkhnh), A chrome extension for QuickBooksOnline to pay bill, invoice etc using multiple gateways.
 
 - [**KretaHub**](https://github.com/AdnanShah/KretaHub-ReactJs), KretaHub is a shipping web application which controls all the necessary shipping formalities required to ship a product.
 
-- [**CodeCave**](https://github.com/AdnanShah/CodeCave-MEAN-Stack),CodeCave is an open source project inspired by some developers communities out there. The project was started as a semester project and can be consider as a started kit for any web based community or forum.
+- [**CodeCave**](https://github.com/AdnanShah/CodeCave-MEAN-Stack), CodeCave is an open source project inspired by some developers communities out there. The project was started as a semester project and can be consider as a started kit for any web based community or forum.
 - [**Python-Recommendation-Engine**](https://github.com/AdnanShah/Python-Recommendation-Engine), An ecommerce recommendation engine which recommend items to user based on their preference.
 
 ---
@@ -37,6 +37,8 @@ Open to commissions and collaborations: adnanshah9911@gmail.com
 ##### June 2018 - (Currently Working) | Karachi
 
 - Responsible for development of custom and interactive UI using modern technologies like JavaScript, Angular4, ReactJs and Jquery.
+
+- Engaged in customer support for the existing code (bug fixing, enhancements to improve the existing solution).
 
 - Designed and developed real time recommendation engine to recommend items to users based on there preferences using Python.
 
@@ -60,14 +62,18 @@ Open to commissions and collaborations: adnanshah9911@gmail.com
 
 ##### (2011 - 2013) | Karachi
 
+#### Matriculation, [Shan Grammar School]
+
+##### (2011) | Karachi
+
 ---
 
 ### Languages & Frameworks
 
 - Python
 - Javascript
-- React
-- Angular4
+- React JS
+- Angular 2+
 - Jquery
 
 ### Operating System
@@ -81,7 +87,3 @@ Open to commissions and collaborations: adnanshah9911@gmail.com
 - Urdu
 
 ---
-
-#### Demo of the project [Here](https://resume-adnan-shah.herokuapp.com/)
-
-#### Demo [Resume](https://adnanshah.github.io/Adnan-Shah/)
