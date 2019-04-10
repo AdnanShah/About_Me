@@ -34,21 +34,13 @@ Open to commissions and collaborations: adnanshah9911@gmail.com
 
 #### Software Engineer, [Prismpay](https://www.prismpay.com/)
 
-##### June 2018 - (Currently Working) | Karachi
+##### June 2017 - (Currently Working) | Karachi
 
 - Responsible for development of custom and interactive UI using modern technologies like JavaScript, Angular4, ReactJs and Jquery.
 
 - Engaged in customer support for the existing code (bug fixing, enhancements to improve the existing solution).
 
 - Designed and developed real time recommendation engine to recommend items to users based on there preferences using Python.
-
-#### Web Developer Internship, [JeddahSoft](http://www.jeddahsoft.com/)
-
-##### April 2018 - June 2018 (3 months) | Karachi
-
-- Performed project delivery of a standalone client project named as KretaHub which is a shipping web application using modern technologies like Javascript, ES6, ReactJs and React-Material.
-
-- Responsible for development of custom and interactive UI using modern technologies like Javascript, ES6, ReactJs and NodeJs.
 
 ---
 
