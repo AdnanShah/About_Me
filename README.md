@@ -15,13 +15,11 @@
 I'm a motivated, hard-working and work-oriented person who finds joy in new challenges and keep an eye out for them everyday. Ability to work well as a team member and exceptional work ethic. Desire to work in a professionally enriched environment for a challenging position utilizing creativity and a true desire to actively contribute which may enrich my skills and provide new horizons of excellence and personal development.
 I'm a Computer Science graduate with an obsession with modern web technologies. I'm quite confident with Javascript, ES6, React, Angular and related technologies. Other than that I try to learn new techs everyday to grow my arsenal.
 
-Open to commissions and collaborations: adnanshah9911@gmail.com
+# Available as a freelancer web developer : adnanshah9911@gmail.com
 
 ---
 
 ## Latest Projects
-
-- [**Clique**](https://chrome.google.com/webstore/detail/clique-payments/nlgjlidmhmjpkbjdcgaclehcfinmkhnh), A chrome extension for QuickBooksOnline to pay bill, invoice etc using multiple gateways.
 
 - [**KretaHub**](https://github.com/AdnanShah/KretaHub-ReactJs), KretaHub is a shipping web application which controls all the necessary shipping formalities required to ship a product.
 
@@ -62,8 +60,9 @@ Open to commissions and collaborations: adnanshah9911@gmail.com
 
 ### Languages & Frameworks
 
+- Angular JS
 - Python
-- Javascript Es6
+- JavaScript Es5/Es6
 - React JS
 - Angular 2+
 - Jquery
