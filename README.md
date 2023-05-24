@@ -1,11 +1,10 @@
-<p align="center"><img src="./src/Adnan.jpg"></p>
+<p align="center"><img src="./src/Adnan.jpeg"></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-adnan-shah/" >
   <img src="https://img.shields.io/badge/LinkedIn-Profile-yellow.svg" alt="Linkedin">
 </a>
   <a href="https://github.com/AdnanShah"><img src="https://img.shields.io/badge/GitHub-Link-lightgrey.svg" alt="GitHub"></a>
-  <a href="https://www.google.se/maps/place/Karachi,+Karachi+City,+Sindh,+Pakistan/@25.1921465,66.5949924,9z/data=!3m1!4b1!4m5!3m4!1s0x3eb33e06651d4bbf:0x9cf92f44555a0c23!8m2!3d24.8607343!4d67.0011364"><img src="https://img.shields.io/badge/Location-Karachi-blue.svg" alt="Pakistan"></a>
   <a href="mailto:adnanshah9911@gmail.com"><img src="https://img.shields.io/badge/Email-adnanshah9911%40gmail.com-red.svg" alt="Email"></a>
 
 </p>
@@ -42,34 +41,22 @@ I'm a Computer Science graduate with an obsession with modern web technologies. 
 
 ---
 
-## Education
+### Frameworks
 
-#### Computer Science, [Karachi University](http://www.uok.edu.pk/)
-
-##### (2014 - 2018) | Karachi
-
-#### Intermediate, [DJ Science College](https://en.wikipedia.org/wiki/D._J._Sindh_Government_Science_College)
-
-##### (2012 - 2013) | Karachi
-
-#### Matriculation, [Shan Grammar School](https://adnanshah.github.io/M-Adnan/)
-
-##### (2011) | Karachi
-
----
-
-### Languages & Frameworks
-
-- Angular JS
-- Python
 - JavaScript Es5/Es6
-- React JS
+- Next Js
+- React Js
+- Angular JS
 - Angular 2+
 - Jquery
+- Jest
+- Cypress
+- Backstop
+-
 
 ### Operating System
 
-- Linux
+- Ubuntu/Linux
 - Windows
 
 ### Languages
